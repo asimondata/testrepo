@@ -1,2 +1,2 @@
 # testrepo
-practice for IDM
+practice for IBM
